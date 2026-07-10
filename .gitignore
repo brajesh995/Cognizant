@@ -1,0 +1,28 @@
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+dist/
+build/
+
+# User and IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages and dependencies
+packages/
+node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
